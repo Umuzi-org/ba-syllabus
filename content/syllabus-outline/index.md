@@ -1,14 +1,14 @@
 ---
-title: Financial Lit Syllabus Outline
+title: Business analysis
 eleventyNavigation:
-  title: "Financial Lit Syllabus"
+  title: "BA Syllabus Outline"
 content_type: course
 ---
 
-- {% contentLink collections "content/common-financial-goals/buying-a-house" %}
-- {% contentLink collections "content/common-financial-goals/buying-a-car" %}
+- {% contentLink collections "content/speadsheet-mastery/part-1" %}
+- {% contentLink collections "content/speadsheet-mastery/part-2" %}
 
-One thing to note: Most online learning solutions resemble clever textbooks. What Tilde allows is something more like a knowld\edge graph.
+One thing to note: Most online learning solutions resemble clever textbooks. What Tilde allows is something more like a knowledge graph.
 
 Nodes on the graph represent content top read or projects to do. The edges of the graph show prerequisites.
 
